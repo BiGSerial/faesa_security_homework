@@ -57,4 +57,4 @@ Siga os passos abaixo para instalar e rodar o simulador em modo de desenvolvimen
 * **Curso**: Sistemas de Informação
 * **Disciplina**: Segurança e Auditoria de Sistemas
 * **Ano/Período**: 2026/1
-* **Grupo**: Eve Chalabi, Wilton Oliveira, Yasmin Newmann e Yasmin Souza
+* **Grupo**: Eve Chalabi, Wilton Oliveira, Yasmin Newmann e Yasmin Sousa
